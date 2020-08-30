@@ -8,7 +8,7 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Create Git Repository-----初始化为本地库-----字体变红色");
         System.out.println("add------添加到暂存区------字体变绿色");
-        System.out.println("");
+        System.out.println("提交到远程库2222222");
 
     }
 }
